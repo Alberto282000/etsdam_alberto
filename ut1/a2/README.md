@@ -15,6 +15,6 @@ Una de esta palabras tiene **negrita** y en *cursiva*
 El enlace externo será aquí:
 [El enlace](https://avatars.githubusercontent.com/u/234037479?s=400&u=ea968d63ceb4fbdf0b1d7acc06bcaa11e0c88191&v=4)
 ![La imagen](/ut1/a1/img/Hackerman.jpeg)
-<'Hola_profe'>
+`Hola_profe`
 
 >"Los ordenadores son inútiles. Sólo pueden darte respuestas"-- Pablo Picasso
