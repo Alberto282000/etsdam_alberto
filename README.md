@@ -43,7 +43,6 @@ I also love learning new things, as it allows me to gain new experiences and exp
 
 ### Other tools and technologies I'm familiar with:
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/CapCut_Logo.png" alt="CapCut" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="GIMP" width="45" height="45"/>
 </p>
